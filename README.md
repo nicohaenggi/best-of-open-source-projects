@@ -20,11 +20,11 @@ This curated list contains the most starred open-source projects for 5 popular f
 
 ## Contents
 
-- [Next.js](#nextjs) _56 projects_
-- [React Hook Form](#react-hook-form) _50 projects_
-- [CASL](#casl) _96 projects_
-- [Casbin (Node.js adapter)](#casbin-nodejs-adapter) _60 projects_
-- [Nest.js](#nestjs) _36 projects_
+- [Next.js](#nextjs) _Last updated: 2022-05-05_
+- [React Hook Form](#react-hook-form) _Last updated: 2022-05-05_
+- [CASL](#casl) _Last updated: 2022-05-05_
+- [Casbin (Node.js adapter)](#casbin-nodejs-adapter) _Last updated: 2022-05-05_
+- [Nest.js](#nestjs) _Last updated: 2022-05-05_
 
 ## Explanation
 
@@ -524,6 +524,8 @@ _The React Framework for Production, by Vercel._
 - <b><a href="https://github.com/tailwindlabs/play.tailwindcss.com">tailwindlabs/play.tailwindcss.com</a></b> (⭐ 595 · 🔀 119)
 - <b><a href="https://github.com/SAP/luigi">SAP/luigi</a></b> (⭐ 594 · 🔀 136)
 
+_Last updated: 2022-05-05_
+
 <br>
 
 ## React Hook Form
@@ -829,6 +831,8 @@ _Performant, flexible and extensible forms with easy-to-use validation._
 - <b><a href="https://github.com/GraphCMS/graphcms-commerce-starter">GraphCMS/graphcms-commerce-starter</a></b> (⭐ 100 · 🔀 37)
 - <b><a href="https://github.com/nelsonwenner/stream-live-system">nelsonwenner/stream-live-system</a></b> (⭐ 100 · 🔀 28)
 
+_Last updated: 2022-05-05_
+
 <br>
 
 ## CASL
@@ -862,6 +866,8 @@ _CASL is an isomorphic authorization JavaScript library which restricts what res
 - <b><a href="https://github.com/RunOnFlux/flux">RunOnFlux/flux</a></b> (⭐ 110 · 🔀 86)
 - <b><a href="https://github.com/rustrose/HINTS">rustrose/HINTS</a></b> (⭐ 106 · 🔀 20)
 
+_Last updated: 2022-05-05_
+
 <br>
 
 ## Casbin (Node.js adapter)
@@ -881,6 +887,8 @@ _An authorization library that supports access control models like ACL, RBAC, AB
 - <b><a href="https://github.com/sourcefuse/loopback4-microservice-catalog">sourcefuse/loopback4-microservice-catalog</a></b> (⭐ 239 · 🔀 42)
 - <b><a href="https://github.com/nextauthjs/adapters">nextauthjs/adapters</a></b> (⭐ 137 · 🔀 87)
 - <b><a href="https://github.com/sourcefuse/loopback4-starter">sourcefuse/loopback4-starter</a></b> (⭐ 132 · 🔀 51)
+
+_Last updated: 2022-05-05_
 
 <br>
 
@@ -1228,6 +1236,8 @@ _A progressive Node.js framework for building efficient, scalable, and enterpris
 - <b><a href="https://github.com/tkssharma/nestjs-advance-course">tkssharma/nestjs-advance-course</a></b> (⭐ 100 · 🔀 57)
 - <b><a href="https://github.com/nelsonwenner/stream-live-system">nelsonwenner/stream-live-system</a></b> (⭐ 100 · 🔀 28)
 - <b><a href="https://github.com/willsoto/nestjs-objection">willsoto/nestjs-objection</a></b> (⭐ 100 · 🔀 7)
+
+_Last updated: 2022-05-05_
 
 <br>
 
