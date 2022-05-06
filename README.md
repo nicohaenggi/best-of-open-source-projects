@@ -5,16 +5,16 @@
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of the most starred open source projects, categorized by the frameworks they depend on. Updated frequently.</strong>
+    <strong>🏆&nbsp; A ranked list of the most starred open source projects, categorized by the libraries they depend on. Updated frequently.</strong>
 </p>
 
 <p align="center">
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/frameworks-5-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/libraries-5-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/nicohaenggi/best-of-open-source-projects/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/nicohaenggi/best-of-open-source-projects?color=green&label=updated"></a>
 </p>
 
-This curated list contains the most starred open-source projects for 5 popular frameworks. All projects are ranked by their number of GitHub stars. If you'd like me to add the most starred projects for a missing framework, feel free to open an [issue](https://github.com/nicohaenggi/best-of-open-source-projects/issues/new/choose). Contributions are very welcome!
+This curated list contains the most starred open-source projects for 5 popular libraries. All projects are ranked by their number of GitHub stars. If you'd like me to add the most starred projects for a missing library, feel free to open an [issue](https://github.com/nicohaenggi/best-of-open-source-projects/issues/new/choose). Contributions are very welcome!
 
 ---
 
